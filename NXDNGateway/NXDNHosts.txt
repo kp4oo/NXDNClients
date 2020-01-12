@@ -146,3 +146,9 @@
 
 # RED NXDN SPAIN
 214 nxdn214.xreflector.es 41400
+
+# 2700 Old Melbourne FL Repeater Association
+2700  2700nxdn.ddns.net 41400
+
+# 3300 Puerto Rico PRadise TalkGroup3300
+3300 3300nxdn.from-pr.com  41400
